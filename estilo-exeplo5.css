@@ -16,7 +16,22 @@
     padding: 1rem;
     width: 23rem;
     height: 20rem;
-    border-radius: .5rem;
-    color: #787373;
-    font-weight: bolder;      
+    border-radius: .5rem;  
 }
+.cabecalho, .corpo{
+    background-color: #ddd;
+    padding: 1rem;
+    color: #787373;
+    font-weight: bolder;
+    width: 23rem; 
+}
+.cabecalho{
+    height: 4rem;
+    margin-bottom: 1rem;
+}
+
+.corpo{
+    height: 13rem;
+}
+
+
